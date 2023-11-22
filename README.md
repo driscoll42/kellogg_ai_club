@@ -24,9 +24,6 @@
   - Coursework
     - Kellogg School of Management
     - McCormick School of Engineering
-    - 
-
-
 
 ### Learning AI/ML
   - Beginner
