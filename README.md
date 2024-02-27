@@ -16,10 +16,6 @@
   - Books
   - Speakers
 - Conferences & Meetups
-- Job Profiles
-  - Job Boards
-  - Data Scientist
-  - AI PM
 - Northwestern Specific
   - Coursework
     - Kellogg School of Management
@@ -76,7 +72,7 @@
 - Newsletters
   - [The Neuron](https://www.theneurondaily.com/)
     - NU Undergrads run it
-  - https://importai.substack.com/
+  - [Import AI](https://importai.substack.com/)
   - [State of AI Report](https://stateofai.substack.com/)
 - Podcasts
   - [Last Week in AI](https://lastweekin.ai/)
@@ -85,10 +81,8 @@
 
 ### Conferences & Meetups & Communities
  - [Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)
- - [This Dot Tech Communites ](https://github.com/thisdot/tech-community-slacks)
-
-
-### Job Profiles
+ - [This Dot Tech Communites](https://github.com/thisdot/tech-community-slacks)
+ - [KDnuggets list of Events on Data Science, Machine Learning, AI & Analytics](https://www.kdnuggets.com/meetings/index.html)
 
 
 ### Northwestern Specific
