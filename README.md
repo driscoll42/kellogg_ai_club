@@ -24,7 +24,7 @@
 ### Learning AI/ML
   - Beginner
     - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
-  - General Machine Learning
+  - Online Courses
     - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
     - Microsoft's [ML For Beginners](https://github.com/microsoft/ML-For-Beginners) & [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) & [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/)
       - A series of self-guided learnings offered by Microsoft that provide a solid intro to ML/DS/Gen AI.
@@ -46,14 +46,6 @@
       - Generally considered the first RL book everyone should read. The authors are two of the luminaries in the field who teach just as well.
     - [Specialization](https://www.coursera.org/specializations/reinforcement-learning)
       - This is a Coursera specialization based on their book that provides a guided learning experience
-  - Basics
-    - Learn Python
-    - Acronyms/Definitions
-  - Supervised Learning
-  - Unsupervised Learning
-  - NLP
-  - CV
-  - Generative AI 
   - Online Masters
     - There are a number of <$20,000 online Masters out there that provide an in-depth education in AI/ML. These can provide you with a new network to tap into and something you can achieve while working.
     - Georgia Tech - [OMSCS](https://omscs.gatech.edu/) & [OMSA](https://pe.gatech.edu/degrees/analytics)
@@ -69,6 +61,8 @@
 ### Continuing Education
 - Blogs
   - [HuggingFace](https://huggingface.co/blog)
+  - [Jay Alammar](https://jalammar.github.io/)
+    - Makes a series of fantastic illustrations to explain ML concepts, particularly known for the [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/). Start at the bottom and work up for a gradual progression.
 - Newsletters
   - [The Neuron](https://www.theneurondaily.com/)
     - NU Undergrads run it
@@ -77,7 +71,7 @@
 - Podcasts
   - [Last Week in AI](https://lastweekin.ai/)
 - YouTubers
-  - https://www.youtube.com/@mreflow
+  - [Matt Wolfe](https://www.youtube.com/@mreflow)
 
 ### Conferences & Meetups & Communities
  - [Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)
