@@ -77,7 +77,9 @@
  - [Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)
  - [This Dot Tech Communites](https://github.com/thisdot/tech-community-slacks)
  - [KDnuggets list of Events on Data Science, Machine Learning, AI & Analytics](https://www.kdnuggets.com/meetings/index.html)
-
+ - [Awesome Discord Communities - ML/DS](https://github.com/mhxion/awesome-discord-communities?tab=readme-ov-file#machine-learning)
+ - [Discord Community List](https://www.makeuseof.com/top-discord-servers-data-scientists/)
+ - [Multireddit of many reddit Data Science Communities](https://old.reddit.com/r/AIAssisted+ArtificialInteligence+AskStatistics+Bard+BigDataJobs+BusinessIntelligence+ChatGPT+ChatGPTCoding+ChatGPTPro+ChatGPTPromptGenius+ChatGPT_Gemini+DataScienceJobs+Database+DatabaseHelp+DeepLearningPapers+GPT3+GoogleColab+GoogleDataStudio+GoogleOptimize+LanguageTechnology+MLQuestions+MLjobs+MachineLearning+MediaSynthesis+OpenAI+SEO+SQL+StableDiffusion+agi+aiArt+aipromptprogramming+analytics+analyzit+artificial+bigdata+bioinformatics+chatgpt_promptDesign+computervision+dalle2+dataengineering+dataisbeautiful+datalake+datascience+datasets+deeplearning+excel+genetic_algorithms+kaggle+learnaitogether+learndatascience+learnmachinelearning+machinelearningnews+marketing+midjourney+mlclass+mlops+mlpapers+mlscaling+neuralnetworks+opencv+opendata+opendirectories+pystats+pytorch+recommendersystems+reinforcementlearning+rstats+scikit_learn+sdforall+semanticweb+singularity+statistics+tableau+tensorflow/)
 
 ### Northwestern Specific
  - [AI Courses at Kellogg and Northwestern](https://nuwildcat.sharepoint.com/:x:/r/sites/KSM-K_AI_L/_layouts/15/Doc.aspx?sourcedoc=%7B3F48A845-3373-4DEF-9DFB-4781C2CBD607%7D&file=Analytics+and+AI+classes+-+2023+school+year.xlsx&action=default&mobileredirect=true)
