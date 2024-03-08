@@ -77,7 +77,7 @@
   - [Machine Learning Guide](https://podcasts.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - 📚 Books
     - [Atlas of AI](https://www.amazon.com/Atlas-AI-Kate-Crawford/dp/0300209576)
-    - [Power and Prediction]([https://www.amazon.com/Atlas-AI-Kate-Crawford/dp/0300209576](https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192))
+    - [Power and Prediction](https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192)
     - [The Alignment Problem](https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821)
 - 📹 YouTubers
   - [Matt Wolfe](https://www.youtube.com/@mreflow)
@@ -110,16 +110,16 @@
  - [NUworkspace](https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceDet?ID=97)
 
 ### 🎒 Best Readings from MORS 950 - Human and Machine Intelligence
-  -[Computational Power and AI (Great Overview of AI Ecosystem)](https://ainowinstitute.org/publication/policy/compute-and-ai)
-  -[The Netflix Recommender Systems: Algorithms, Business Value, and Innovations](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dl.acm.org/doi/pdf/10.1145/2843948)
-  -[How the New York Times Recipe Team Makes Personalized Cooking](https://medium.com/@timesopen/how-the-new-york-times-cooking-team-makes-personalized-recipe-recommendations-669c26aa4825)
-  -[Opportunities in AI](https://www.youtube.com/watch?si=hTTbCdYREl6CE-Oq&v=5p248yoa3oE&feature=youtu.be)
-  -[Creating, Using, Misusing, and Detecting Deepfakes](https://www.tsjournal.org/index.php/jots/article/view/56/36)
+ - [Computational Power and AI (Great Overview of AI Ecosystem)](https://ainowinstitute.org/publication/policy/compute-and-ai)
+ - [The Netflix Recommender Systems: Algorithms, Business Value, and Innovations](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dl.acm.org/doi/pdf/10.1145/2843948)
+ - [How the New York Times Recipe Team Makes Personalized Cooking](https://medium.com/@timesopen/how-the-new-york-times-cooking-team-makes-personalized-recipe-recommendations-669c26aa4825)
+ - [Opportunities in AI](https://www.youtube.com/watch?si=hTTbCdYREl6CE-Oq&v=5p248yoa3oE&feature=youtu.be)
+ - [Creating, Using, Misusing, and Detecting Deepfakes](https://www.tsjournal.org/index.php/jots/article/view/56/36)
 
 ### 🎒 Best Readings from MORS 944 - AI and the Future of Work
-  -[How Will AI Change Work? Here Are 5 Schools of Thought](https://hbr.org/2018/01/how-will-ai-change-work-here-are-5-schools-of-thought)
-  -[A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://dl.acm.org/doi/fullHtml/10.1145/3465416.3483305)
-  -[Why it’s so damn hard to make AI fair and unbiased](https://www.vox.com/future-perfect/22916602/ai-bias-fairness-tradeoffs-artificial-intelligence)
-  -[AI is Learning from Humans. Many Humans.](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
-  -[Why Robots Might Not Want to Steal Your Job](https://journals.sagepub.com/doi/10.1177/0170840618765568)
+ - [How Will AI Change Work? Here Are 5 Schools of Thought](https://hbr.org/2018/01/how-will-ai-change-work-here-are-5-schools-of-thought)
+ - [A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://dl.acm.org/doi/fullHtml/10.1145/3465416.3483305)
+ - [Why it’s so damn hard to make AI fair and unbiased](https://www.vox.com/future-perfect/22916602/ai-bias-fairness-tradeoffs-artificial-intelligence)
+ - [AI is Learning from Humans. Many Humans.](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
+ - [Why Robots Might Not Want to Steal Your Job](https://journals.sagepub.com/doi/10.1177/0170840618765568)
   
