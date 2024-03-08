@@ -21,7 +21,7 @@
     - Kellogg School of Management
     - McCormick School of Engineering
 
-### Learning AI/ML
+### 📺 Courses for Learning AI/ML
   - Beginner
     - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
   - Online Courses
@@ -58,19 +58,19 @@
     - [The Open Source Data Science Masters](http://datasciencemasters.org/)
     - [Chicago Booth's Analytic Club Online Courses Recommendations](https://github.com/ChicagoBoothAnalytics/site/wiki/Online-Courses)
 
-### Continuing Education
-- Blogs
+### 💡 Continuing Education
+- 📝 Blogs
   - [HuggingFace](https://huggingface.co/blog)
   - [Jay Alammar](https://jalammar.github.io/)
     - Makes a series of fantastic illustrations to explain ML concepts, particularly known for the [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/). Start at the bottom and work up for a gradual progression.
-- Newsletters
+- 📬 Newsletters
   - [The Neuron](https://www.theneurondaily.com/)
     - NU Undergrads run it
   - [Import AI](https://importai.substack.com/)
   - [State of AI Report](https://stateofai.substack.com/)
-- Podcasts
+- 🎧 Podcasts
   - [Last Week in AI](https://lastweekin.ai/)
-- YouTubers
+- 📹 YouTubers
   - [Matt Wolfe](https://www.youtube.com/@mreflow)
 
 ### Conferences & Meetups & Communities
