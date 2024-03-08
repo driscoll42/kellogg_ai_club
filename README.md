@@ -21,7 +21,7 @@
     - Kellogg School of Management
     - McCormick School of Engineering
 
-### 📺 Courses for Learning AI/ML
+### 🍎 Courses & Books for Learning AI/ML
   - Beginner Courses
     - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) - 6 hours
     - [Generative AI For Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) - 5 hours
@@ -32,7 +32,7 @@
       - A series of self-guided learnings offered by Microsoft that provide a solid intro to ML/DS/Gen AI.
     - [Andrew Ng Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) - 2 months at 10 hours/week
     - [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) - 3 months at 10 hours/week
-    - [Practical Deep Learning](https://course.fast.ai/)
+    - [Practical Deep Learning](https://course.fast.ai/) - 14 hours
       - [Book](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
     - [Dive into Deep Learning](https://d2l.ai/)
     - [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
@@ -63,6 +63,7 @@
 ### 💡 Continuing Education
 - 📝 Blogs
   - [HuggingFace](https://huggingface.co/blog)
+  - [Stratechery](https://stratechery.com/)
   - [Jay Alammar](https://jalammar.github.io/)
     - Makes a series of fantastic illustrations to explain ML concepts, particularly known for the [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/). Start at the bottom and work up for a gradual progression.
 - 📬 Newsletters
@@ -72,10 +73,22 @@
   - [State of AI Report](https://stateofai.substack.com/)
 - 🎧 Podcasts
   - [Last Week in AI](https://lastweekin.ai/)
+  - [Hardfork by the New York Times](https://podcasts.apple.com/us/podcast/hard-fork/id1528594034)
+  - [Machine Learning Guide](https://podcasts.apple.com/us/podcast/machine-learning-guide/id1204521130)
+- 📚 Books
+    - [Atlas of AI](https://www.amazon.com/Atlas-AI-Kate-Crawford/dp/0300209576)
+    - [Power and Prediction]([https://www.amazon.com/Atlas-AI-Kate-Crawford/dp/0300209576](https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192))
+    - [The Alignment Problem](https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821)
 - 📹 YouTubers
   - [Matt Wolfe](https://www.youtube.com/@mreflow)
+- 🗣️ Top Voices
+  - [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
+  - [Allie Miller](https://www.linkedin.com/in/alliekmiller/)
+  - [Dr. Joy Buolamwini](https://www.linkedin.com/in/buolamwini/)
+  - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407/)
+  - [Henry Ajder](https://www.linkedin.com/in/henryajder/)
 
-### Conferences & Meetups & Communities
+### 🤝 Conferences & Meetups & Communities
  - [Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)
  - [This Dot Tech Communites](https://github.com/thisdot/tech-community-slacks)
  - [KDnuggets list of Events on Data Science, Machine Learning, AI & Analytics](https://www.kdnuggets.com/meetings/index.html)
@@ -83,7 +96,7 @@
  - [Discord Community List](https://www.makeuseof.com/top-discord-servers-data-scientists/)
  - [Multireddit of many reddit Data Science Communities](https://old.reddit.com/r/AIAssisted+ArtificialInteligence+AskStatistics+Bard+BigDataJobs+BusinessIntelligence+ChatGPT+ChatGPTCoding+ChatGPTPro+ChatGPTPromptGenius+ChatGPT_Gemini+DataScienceJobs+Database+DatabaseHelp+DeepLearningPapers+GPT3+GoogleColab+GoogleDataStudio+GoogleOptimize+LanguageTechnology+MLQuestions+MLjobs+MachineLearning+MediaSynthesis+OpenAI+SEO+SQL+StableDiffusion+agi+aiArt+aipromptprogramming+analytics+analyzit+artificial+bigdata+bioinformatics+chatgpt_promptDesign+computervision+dalle2+dataengineering+dataisbeautiful+datalake+datascience+datasets+deeplearning+excel+genetic_algorithms+kaggle+learnaitogether+learndatascience+learnmachinelearning+machinelearningnews+marketing+midjourney+mlclass+mlops+mlpapers+mlscaling+neuralnetworks+opencv+opendata+opendirectories+pystats+pytorch+recommendersystems+reinforcementlearning+rstats+scikit_learn+sdforall+semanticweb+singularity+statistics+tableau+tensorflow/)
 
-### Northwestern Specific
+### 💜 Northwestern Specific
  - [AI Courses at Kellogg and Northwestern](https://nuwildcat.sharepoint.com/:x:/r/sites/KSM-K_AI_L/_layouts/15/Doc.aspx?sourcedoc=%7B3F48A845-3373-4DEF-9DFB-4781C2CBD607%7D&file=Analytics+and+AI+classes+-+2023+school+year.xlsx&action=default&mobileredirect=true)
  - [O'Reilly Learning](https://learning.oreilly.com/) - We get free access, just sign up with your Northwestern email
  - [KDA Data Analytics Resources](https://kelloggkda.github.io/KelloggKDA/resources.html)
@@ -95,3 +108,18 @@
  - [Northwestern Research Tools (Mathematica, SAS, Qualtrics, MATLAB, SPSS, and others)](https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceCatalog?CategoryID=83)
  - [AI @ Northwestern](https://ai.northwestern.edu/index.html)
  - [NUworkspace](https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceDet?ID=97)
+
+### 🎒 Best Readings from MORS 950 - Human and Machine Intelligence
+  -[Computational Power and AI (Great Overview of AI Ecosystem)](https://ainowinstitute.org/publication/policy/compute-and-ai)
+  -[The Netflix Recommender Systems: Algorithms, Business Value, and Innovations](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dl.acm.org/doi/pdf/10.1145/2843948)
+  -[How the New York Times Recipe Team Makes Personalized Cooking](https://medium.com/@timesopen/how-the-new-york-times-cooking-team-makes-personalized-recipe-recommendations-669c26aa4825)
+  -[Opportunities in AI](https://www.youtube.com/watch?si=hTTbCdYREl6CE-Oq&v=5p248yoa3oE&feature=youtu.be)
+  -[Creating, Using, Misusing, and Detecting Deepfakes](https://www.tsjournal.org/index.php/jots/article/view/56/36)
+
+### 🎒 Best Readings from MORS 944 - AI and the Future of Work
+  -[How Will AI Change Work? Here Are 5 Schools of Thought](https://hbr.org/2018/01/how-will-ai-change-work-here-are-5-schools-of-thought)
+  -[A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://dl.acm.org/doi/fullHtml/10.1145/3465416.3483305)
+  -[Why it’s so damn hard to make AI fair and unbiased](https://www.vox.com/future-perfect/22916602/ai-bias-fairness-tradeoffs-artificial-intelligence)
+  -[AI is Learning from Humans. Many Humans.](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
+  -[Why Robots Might Not Want to Steal Your Job](https://journals.sagepub.com/doi/10.1177/0170840618765568)
+  
