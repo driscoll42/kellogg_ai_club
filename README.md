@@ -111,7 +111,7 @@
 
 ### 🎒 Best Readings from MORS 950 - Human and Machine Intelligence
  - [Computational Power and AI (Great Overview of AI Ecosystem)](https://ainowinstitute.org/publication/policy/compute-and-ai)
- - [The Netflix Recommender Systems: Algorithms, Business Value, and Innovations](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dl.acm.org/doi/pdf/10.1145/2843948)
+ - [The Netflix Recommender Systems: Algorithms, Business Value, and Innovations](https://netflixtechblog.com/learning-a-personalized-homepage-aa8ec670359a#1c3e)
  - [How the New York Times Recipe Team Makes Personalized Cooking](https://medium.com/@timesopen/how-the-new-york-times-cooking-team-makes-personalized-recipe-recommendations-669c26aa4825)
  - [Opportunities in AI](https://www.youtube.com/watch?si=hTTbCdYREl6CE-Oq&v=5p248yoa3oE&feature=youtu.be)
  - [Creating, Using, Misusing, and Detecting Deepfakes](https://www.tsjournal.org/index.php/jots/article/view/56/36)
