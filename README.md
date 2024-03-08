@@ -22,14 +22,16 @@
     - McCormick School of Engineering
 
 ### 📺 Courses for Learning AI/ML
-  - Beginner
-    - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
-  - Online Courses
+  - Beginner Courses
+    - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) - 6 hours
+    - [Generative AI For Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) - 5 hours
+    - [Elements of AI](https://www.elementsofai.com/) - 6 hours
+  - Intermediate Courses
     - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
     - Microsoft's [ML For Beginners](https://github.com/microsoft/ML-For-Beginners) & [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) & [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/)
       - A series of self-guided learnings offered by Microsoft that provide a solid intro to ML/DS/Gen AI.
-    - [Andrew Ng Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)
-    - [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
+    - [Andrew Ng Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) - 2 months at 10 hours/week
+    - [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) - 3 months at 10 hours/week
     - [Practical Deep Learning](https://course.fast.ai/)
       - [Book](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
     - [Dive into Deep Learning](https://d2l.ai/)
