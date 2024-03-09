@@ -1,26 +1,5 @@
 # Kellogg AI Club AI Resources
 
-# Navigation
-- [Learning AI/ML](#Learning-AIML)
-  - Self-Guided Courses
-    - Beginner
-    - Intermediate
-    - Advanced
-  - Certificates
-  - Online Masters
-  - Technical Skills
-- Continuing Education
-  - Blogs
-  - Websites/Articles
-  - Podcasts
-  - Books
-  - Speakers
-- Conferences & Meetups
-- Northwestern Specific
-  - Coursework
-    - Kellogg School of Management
-    - McCormick School of Engineering
-
 ### 🍎 Courses & Books for Learning AI/ML
   - Beginner Courses
     - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) - 6 hours
