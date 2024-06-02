@@ -38,6 +38,7 @@
     - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
     - [The Open Source Data Science Masters](http://datasciencemasters.org/)
     - [Chicago Booth's Analytic Club Online Courses Recommendations](https://github.com/ChicagoBoothAnalytics/site/wiki/Online-Courses)
+    - [Python Education](https://github.com/charlax/python-education)
 
 ### 💡 Continuing Education
 - 📝 Blogs
