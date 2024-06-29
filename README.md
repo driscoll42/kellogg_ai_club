@@ -5,6 +5,9 @@
     - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) - 6 hours
     - [Generative AI For Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) - 5 hours
     - [Elements of AI](https://www.elementsofai.com/) - 6 hours
+    - Glosseries of AI Terms
+      - [Shelf.io AI Glossery](https://shelf.io/ai-glossary/)
+      - [Wikipedia's Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
   - Intermediate Courses
     - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
     - Microsoft's [ML For Beginners](https://github.com/microsoft/ML-For-Beginners) & [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) & [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/)
@@ -27,6 +30,9 @@
       - Generally considered the first RL book everyone should read. The authors are two of the luminaries in the field who teach just as well.
     - [Specialization](https://www.coursera.org/specializations/reinforcement-learning)
       - This is a Coursera specialization based on their book that provides a guided learning experience
+  - Generative AI (Large Langage Models & More)
+    - [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/)
+    - [Large Language Model Course](https://github.com/mlabonne/llm-course)
   - Online Masters
     - There are a number of <$20,000 online Masters out there that provide an in-depth education in AI/ML. These can provide you with a new network to tap into and something you can achieve while working.
     - Georgia Tech - [OMSCS](https://omscs.gatech.edu/) & [OMSA](https://pe.gatech.edu/degrees/analytics)
