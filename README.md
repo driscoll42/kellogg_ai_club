@@ -10,7 +10,7 @@
       - [Wikipedia's Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
   - Intermediate Courses
     - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-    - Microsoft's [ML For Beginners](https://github.com/microsoft/ML-For-Beginners) & [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) & [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/)
+    - Microsoft's [ML For Beginners](https://github.com/microsoft/ML-For-Beginners) & [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners), [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) & [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/)
       - A series of self-guided learnings offered by Microsoft that provide a solid intro to ML/DS/Gen AI.
     - [Andrew Ng Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) - 2 months at 10 hours/week
     - [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) - 3 months at 10 hours/week
@@ -25,6 +25,8 @@
       - A path for learning AI that covers the major groupings in learning AI. A good way to get a good overview of many of the skills needed in ML, though many of the resources are more for getting your feet wet than learning in depth.
     - [Applied ML](https://github.com/eugeneyan/applied-ml)
       - A curated list of articles, papers, and blogs on how to apply ML in production
+    - [CS Courses with Videos](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file)
+      - A repository with a list of CS courses from various universities with video lectures one can watch
   - Reinforcement Learning
     - [RL Book](https://incompleteideas.net/book/the-book-2nd.html)
       - Generally considered the first RL book everyone should read. The authors are two of the luminaries in the field who teach just as well.
