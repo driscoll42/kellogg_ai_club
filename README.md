@@ -5,6 +5,8 @@
     - [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) - 6 hours
     - [Generative AI For Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) - 5 hours
     - [Elements of AI](https://www.elementsofai.com/) - 6 hours
+    - [Kaggle Microcourses](https://www.kaggle.com/learn)
+    - [Hugging Face Courses](https://huggingface.co/learn)
     - Glosseries of AI Terms
       - [Shelf.io AI Glossery](https://shelf.io/ai-glossary/)
       - [Wikipedia's Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
