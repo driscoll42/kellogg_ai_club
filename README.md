@@ -57,6 +57,8 @@
   - [Jay Alammar](https://jalammar.github.io/)
     - Makes a series of fantastic illustrations to explain ML concepts, particularly known for the [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/). Start at the bottom and work up for a gradual progression.
 - 📬 Newsletters
+  - [AI Weekly](https://aiweekly.co/)
+    - Discover what AI experts are reading and sharing right now, across models, agents, funding, policy, and research.
   - [The Neuron](https://www.theneurondaily.com/)
     - NU Undergrads run it
   - [Import AI](https://importai.substack.com/)
